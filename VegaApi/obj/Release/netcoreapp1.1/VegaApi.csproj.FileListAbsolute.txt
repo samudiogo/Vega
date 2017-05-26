@@ -1,0 +1,14 @@
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\appsettings.json
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\VegaApi.deps.json
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\VegaApi.runtimeconfig.json
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\VegaApi.runtimeconfig.dev.json
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\VegaApi.dll
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\VegaApi.pdb
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\Vega.Domain.dll
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\Vega.Infra.Data.dll
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\Vega.Domain.pdb
+C:\Github\udemy\VegaApi\VegaApi\bin\Release\netcoreapp1.1\Vega.Infra.Data.pdb
+C:\Github\udemy\VegaApi\VegaApi\obj\Release\netcoreapp1.1\VegaApi.csprojResolveAssemblyReference.cache
+C:\Github\udemy\VegaApi\VegaApi\obj\Release\netcoreapp1.1\VegaApi.AssemblyInfo.cs
+C:\Github\udemy\VegaApi\VegaApi\obj\Release\netcoreapp1.1\VegaApi.dll
+C:\Github\udemy\VegaApi\VegaApi\obj\Release\netcoreapp1.1\VegaApi.pdb

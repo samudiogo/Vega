@@ -1,0 +1,7 @@
+C:\Github\udemy\VegaApi\Vega.Domain\bin\Release\netcoreapp1.1\Vega.Domain.deps.json
+C:\Github\udemy\VegaApi\Vega.Domain\bin\Release\netcoreapp1.1\Vega.Domain.dll
+C:\Github\udemy\VegaApi\Vega.Domain\bin\Release\netcoreapp1.1\Vega.Domain.pdb
+C:\Github\udemy\VegaApi\Vega.Domain\obj\Release\netcoreapp1.1\Vega.Domain.csprojResolveAssemblyReference.cache
+C:\Github\udemy\VegaApi\Vega.Domain\obj\Release\netcoreapp1.1\Vega.Domain.AssemblyInfo.cs
+C:\Github\udemy\VegaApi\Vega.Domain\obj\Release\netcoreapp1.1\Vega.Domain.dll
+C:\Github\udemy\VegaApi\Vega.Domain\obj\Release\netcoreapp1.1\Vega.Domain.pdb

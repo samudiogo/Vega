@@ -1,0 +1,10 @@
+C:\Github\udemy\VegaApi\Vega.Infra.Data\bin\Release\netcoreapp1.1\appsettings.json
+C:\Github\udemy\VegaApi\Vega.Infra.Data\bin\Release\netcoreapp1.1\Vega.Infra.Data.deps.json
+C:\Github\udemy\VegaApi\Vega.Infra.Data\bin\Release\netcoreapp1.1\Vega.Infra.Data.dll
+C:\Github\udemy\VegaApi\Vega.Infra.Data\bin\Release\netcoreapp1.1\Vega.Infra.Data.pdb
+C:\Github\udemy\VegaApi\Vega.Infra.Data\bin\Release\netcoreapp1.1\Vega.Domain.dll
+C:\Github\udemy\VegaApi\Vega.Infra.Data\bin\Release\netcoreapp1.1\Vega.Domain.pdb
+C:\Github\udemy\VegaApi\Vega.Infra.Data\obj\Release\netcoreapp1.1\Vega.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Github\udemy\VegaApi\Vega.Infra.Data\obj\Release\netcoreapp1.1\Vega.Infra.Data.AssemblyInfo.cs
+C:\Github\udemy\VegaApi\Vega.Infra.Data\obj\Release\netcoreapp1.1\Vega.Infra.Data.dll
+C:\Github\udemy\VegaApi\Vega.Infra.Data\obj\Release\netcoreapp1.1\Vega.Infra.Data.pdb
